@@ -1,4 +1,5 @@
-Name: NUR 'IRDHINA NADHIRAH BINTI AZHAR
+Name: NUR 'IRDHINA NADHIRAH BINTI AZHAR (Main Branch Edit)
 Matric: 251594712
 Course: Data Science (Artificial Intelligence)
 Hobbies: Reading, Gaming, Coding
+
