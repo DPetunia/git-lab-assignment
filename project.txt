@@ -1,0 +1,3 @@
+Project: Git Lab Assignment
+Description: Learning Git version control
+Status: In Progress
